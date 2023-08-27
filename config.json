@@ -1,14 +1,14 @@
 {
-    "token": "",
-    "owner": "",
-    "guild_id": "",
+    "token": "MTE0NDgyMjUyNzU1ODk1MTAxNA.GRfhmr.YnOKcUw5sBCYWa3rAO7Aq6umlwImVjyOOmfJQg",
+    "owner": "734637078330998885",
+    "guild_id": "1122915634938925106",
     "capmonster_key": "",
     "server_nick": "",
     "change_server_nick": true,
     "proxyless": true,
     "field_name_invite": "Invite",
-    "order_logs": "",
-    "failed_boosts": "",
-    "boosts_logs": "",
-    "activity": ""
+    "order_logs": "https://discord.com/api/webhooks/1145250282117279785/PTQNXnHRtWSeS69LO22jo5F_Vp5ZmcjmbRGoMrwNrokOUEi--5KeutAJsnbVqQvRfuSe",
+    "failed_boosts": "https://discord.com/api/webhooks/1145250527068835850/qf9y1jXM2NQKLraKPT7UInGBrdf4Qq8nMR-W2xhwAvq6172NCYyrEETS84SxMgKJRF2Q",
+    "boosts_logs": "https://discord.com/api/webhooks/1145250602654375998/RHXa01VqWtPyjPk2BkSeqnUiDuz660_62exnz5kGQ38Ahvfygyg-n42fysNetwWH7kjo",
+    "activity": "Nexus Tools"
 }
